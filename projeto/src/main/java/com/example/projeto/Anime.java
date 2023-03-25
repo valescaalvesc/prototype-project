@@ -55,7 +55,7 @@ public class Anime implements Cloneable{
 
     @Override
     public String toString() {
-        return "Aluno{" +
+        return "Anime{" +
                 "registro=" + registro +
                 ", nomeAnime='" + nomeAnime + '\'' +
                 ", localizacao=" + localizacao +
